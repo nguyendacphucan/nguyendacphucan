@@ -1,16 +1,45 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
 
-<!--
-**nguyendacphucan/nguyendacphucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+    <title>Đây là web giới thiệu An đẹp trai</title>   
+  <body>
+    <img width="100" src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/421031737_887678993050060_782535887310384483_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bomemRj6Uj8Q7kNvgETTvGr&_nc_ht=scontent.fhph4-1.fna&cb_e2o_trans=q&oh=00_AYCXqA2Prbaue0PXf5a36Pk8O94IVcxWAKUbcbrBs_D4Xg&oe=666C280D"/>
+    <h2>
+      chào cậu, tớ là Phúc An nè
+    </h2>
+      <div>
+        <p>
+            Sở thích của tớ là:
+        </p>
+            <ul>
+                <li>Yêu cậu</li>
+                <li>Yêu cậu lần 2</li>
+                <li>Yêu cậu lần 3</li>
+            </ul>    
+      </div>
+      <div>
+        <h2>
+            Cậu có muốn hỏi gì tui không ?
+        </h2>
+        <form>
+            <input type="text" placeholder="Điền câu hỏi của cậu" />
+            <button>
+                Gửi câu hỏi của cậu
+            </button>
+        </form>
+      </div>
+      <footer>
+        <h2>
+            Thông tin liên lạc của tớ:
+        </h2>
+        <ul>
+            <li>Email: nguyendacphucansiuiuYenVy@gmail.com </li>
+            <li>Facebook: <a href=https://www.facebook.com/profile.php?id=100054239025911> AnyeuYenVy</a></li>
+        </ul>
+      </footer>
+  </body>
+  </html>
+    
